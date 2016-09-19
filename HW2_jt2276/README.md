@@ -1,6 +1,6 @@
 #HW2
 
-For this assignment I worked individually on all sections and used the sample ipython notebooks in Lab 2 and the Data Wrangling folder as reference.
+For this assignment I worked individually on all sections and used the sample ipython notebooks in Lab 2 and the Data Wrangling folders as reference.
 
 #Assignment Overview:
 
