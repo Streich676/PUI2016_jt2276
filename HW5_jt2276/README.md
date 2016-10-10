@@ -10,13 +10,17 @@ For assignment 3, which is below, I worked alone.
 
 1) The 'control group' will refer to participants who are asked to regularly perform medium to light exercise for 6 weeks, while the 'test group' will refer to participants who are asked to go on a low-carb diet for 6 weeks. Weights are measured before and after the 6 weeks.
 Null hypothesis: The mean weight lost by the control group is greater than or equal to the mean weight lost by the test group.
+    
     mu_control >= mu_test
 
 2) Null hypothesis: The true proportion of the US population 'p' that would answer 'yes Bill Clinton does have the honesty and integrity you expect in a president' is less than or equal to 0.5.
+    
     p <= 0.5
 
 3) Null hypothesis: The proportion of smokers who successfully quit smoking using the nicotine patch is less than or equal to the proportion that quit using a placebo patch.
+    
     p_nicotine <= p_control
 
 4) Null hypothesis: The yearly increase in IQ averaged over ages 1-4 for children born to smokers is the same or higher than that of children born to non-smokers.
+    
     mu_smoker >= mu_nonsmoker
