@@ -9,6 +9,7 @@ For assignment 2, we worked through the skeleton notebook by storing the 2013 ce
 For assignment 3, which is below, I worked alone.
 
 1) The 'control group' will refer to participants who are asked to regularly perform medium to light exercise for 6 weeks, while the 'test group' will refer to participants who are asked to go on a low-carb diet for 6 weeks. Weights are measured before and after the 6 weeks.
+
 Null hypothesis: The mean weight lost by the control group is greater than or equal to the mean weight lost by the test group.
     
     mu_control >= mu_test
