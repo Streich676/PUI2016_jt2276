@@ -1,8 +1,5 @@
 # Reveiw of yw2278
 
-Important YOU MUST SUGGEST IMPROVEMENTS TO EACH PLOT!
-
-
 ![Plot from yw2278 notebook](https://github.com/jontoy/PUI2016_jt2276/blob/master/HW8_jt2276/yw2278_plot_image.png)
 
 Peer Review:
